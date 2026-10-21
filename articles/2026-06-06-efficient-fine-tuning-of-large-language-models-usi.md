@@ -4,6 +4,8 @@ tags: [llm, fine-tuning, lora, qlora, production, deployment, domain-specific, m
 
 # How to Deploy Domain-Specific LLMs in Production with LoRA/QLoRA: Real-World Patterns and Pitfalls
 
+![How to Deploy Domain-Specific LLMs in Production with LoRA/QLoRA: Real-World Patterns and Pitfalls](../images/efficient-fine-tuning-of-large-language-models-usi.jpg)
+
 By Reallytics AI
 
 ---
