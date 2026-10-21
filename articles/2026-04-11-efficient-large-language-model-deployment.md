@@ -4,6 +4,8 @@ tags: [BERT, Machine Learning, Model Optimization, Quantization, Knowledge Disti
 
 # Optimizing BERT Inference with Quantization and Knowledge Distillation: A Step-by-Step Guide
 
+![Optimizing BERT Inference with Quantization and Knowledge Distillation: A Step-by-Step Guide](../images/efficient-large-language-model-deployment.jpg)
+
 ---
 
 ## TL;DR
