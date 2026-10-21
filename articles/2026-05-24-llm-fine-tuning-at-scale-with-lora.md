@@ -4,6 +4,8 @@ tags: [LLM, LoRA, Fine-Tuning, HuggingFace, PEFT, Production ML, PyTorch, Servin
 
 # LLM Fine-Tuning at Scale with LoRA: From Training to Production Serving
 
+![LLM Fine-Tuning at Scale with LoRA: From Training to Production Serving](../images/llm-fine-tuning-at-scale-with-lora.jpg)
+
 _By Reallytics AI_
 
 ---
