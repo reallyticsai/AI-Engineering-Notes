@@ -3,6 +3,8 @@ tags: explainable-ai, medical-diagnosis, shap, lime, model-interpretability
 ---
 
 # Unboxing Black Boxes: Using SHAP and LIME to Explain Medical Diagnosis Models
+
+![Unboxing Black Boxes: Using SHAP and LIME to Explain Medical Diagnosis Models](../images/explainable-ai-for-high-stakes-applications.jpg)
 By Reallytics AI
 
 ## TL;DR
