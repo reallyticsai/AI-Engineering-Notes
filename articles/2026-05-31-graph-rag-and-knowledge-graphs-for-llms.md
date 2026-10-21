@@ -8,6 +8,8 @@ author: "By Reallytics AI"
 
 # When Vector Search Isn't Enough: Building Graph RAG Systems for LLMs
 
+![When Vector Search Isn't Enough: Building Graph RAG Systems for LLMs](../images/graph-rag-and-knowledge-graphs-for-llms.jpg)
+
 ## TL;DR
 - **Vector search** is powerful for semantic retrieval, but struggles with **multi-hop reasoning and relationship-based queries**.
 - **Graph RAG** integrates knowledge graphs with LLMs to enable reasoning over entities and their relationships.
