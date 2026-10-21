@@ -4,6 +4,8 @@ tags: [multi-agent, AI, orchestration, production]
 
 # Mastering Multi-Agent AI Orchestration: Patterns from Production at Reallytics.ai
 
+![Mastering Multi-Agent AI Orchestration: Patterns from Production at Reallytics.ai](../images/multi-agent-ai-orchestration-patterns.jpg)
+
 **By Reallytics AI**
 
 ## TL;DR
