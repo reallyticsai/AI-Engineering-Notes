@@ -4,6 +4,8 @@ tags: [AI Safety, Alignment Engineering, Production Systems, Machine Learning, A
 
 # Practical AI Safety and Alignment Engineering for Production Systems
 
+![Practical AI Safety and Alignment Engineering for Production Systems](../images/ai-safety-and-alignment-engineering.jpg)
+
 ### TL;DR
 - AI safety and alignment engineering ensures that AI systems behave reliably and according to human values in high-stakes production environments.
 - Key techniques include Constitutional AI, preference modeling, and uncertainty estimation, implemented using tools like PyTorch and TensorFlow.
