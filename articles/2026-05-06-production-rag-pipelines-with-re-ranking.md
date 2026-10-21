@@ -4,6 +4,8 @@ tags: RAG, Retrieval-Augmented Generation, Production AI, LLM, Re-ranking
 
 # Building Production-Ready RAG Pipelines with Re-ranking
 
+![Building Production-Ready RAG Pipelines with Re-ranking](../images/production-rag-pipelines-with-re-ranking.jpg)
+
 ## TL;DR
 * Combining dense retrieval with cross-encoder re-ranking and LLM generation enables high accuracy and scalable performance for enterprise RAG workloads.
 * A hybrid retrieval approach (dense + sparse) maximizes recall and precision.
