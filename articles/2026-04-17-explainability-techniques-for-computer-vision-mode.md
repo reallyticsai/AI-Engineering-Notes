@@ -3,6 +3,8 @@ tags: explainability, computer vision, saliency maps, feature importance, model 
 ---
 
 # Unmasking Black-Box CV Models: A Comparative Study of Saliency Maps and Feature Importance Methods
+
+![Unmasking Black-Box CV Models: A Comparative Study of Saliency Maps and Feature Importance Methods](../images/explainability-techniques-for-computer-vision-mode.jpg)
 ![Explainability Techniques for Computer Vision Models](../images/explainability-techniques-for-computer-vision.jpg)
 
 ## TL;DR
