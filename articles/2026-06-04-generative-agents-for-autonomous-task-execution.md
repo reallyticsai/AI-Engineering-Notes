@@ -6,6 +6,8 @@ tags:
 ---
 
 # Building Production-Grade Generative Agents for Autonomous Task Execution
+
+![Building Production-Grade Generative Agents for Autonomous Task Execution](../images/generative-agents-for-autonomous-task-execution.jpg)
 ## Scaling from Toy Projects to Real-World Use Cases
 
 By Reallytics AI
